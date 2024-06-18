@@ -6,7 +6,6 @@ namrataraut10@gmail.com
 [Portfolio Website](https://namrataraut.github.io/namrata05/)  
 [LinkedIn](https://www.linkedin.com/in/namrata-raut-39b375179)
 
-## Night Coding
 
 Hey there! I'm Namrata 👋
 
@@ -20,7 +19,6 @@ Hey there! I'm Namrata 👋
 ✉️ You can shoot me an email at namrataraut10@gmail.com. I'll try to respond as soon as I can.  
 📄 Please have a look at my [resume](https://drive.google.com/file/d/1GkTQr05oRUa7tuMAOj646nvoDWIassEP/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-## Night Coding
 
 🛠 **Tech Stack**  
 Java | Spring Boot | Microservices | Hibernate | Kafka  
